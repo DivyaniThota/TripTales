@@ -36,7 +36,7 @@ FEATURES:
 SCREENSHOTS:
 ---
 
-<img src="https://github.com/user-attachments/assets/672d2f68-7f29-41ec-91eb-07db3268a737" width="250" />
+<img src="https://github.com/user-attachments/assets/672d2f68-7f29-41ec-91eb-07db3268a737" width="270" />
 
 
 
