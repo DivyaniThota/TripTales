@@ -36,8 +36,9 @@ FEATURES:
 
 SCREENSHOTS:
 ---
-![RPReplay_Final1724986966](https://github.com/user-attachments/assets/c0cc2a31-d80c-4346-bbe0-ba5cb57c451b)
+![RPReplay_Final1724986966](https://github.com/user-attachments/assets/c0cc2a31-d80c-4346-bbe0-ba5cb57c451b =300x)
 
-<img width="300" alt="TripTales_1" src="https://github.com/user-attachments/assets/672d2f68-7f29-41ec-91eb-07db3268a737">
+<img src="https://github.com/user-attachments/assets/672d2f68-7f29-41ec-91eb-07db3268a737" width="300" />
 
-<img width="300" alt="Trip Tales" src="https://github.com/user-attachments/assets/4dadd6de-8a40-4d38-9ff7-4325bf4b2906">
+<img src="https://github.com/user-attachments/assets/4dadd6de-8a40-4d38-9ff7-4325bf4b2906" width="300" />
+
