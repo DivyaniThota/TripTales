@@ -36,7 +36,7 @@ FEATURES:
 
 SCREENSHOTS:
 ---
-![RPReplay_Final1724986966](https://github.com/user-attachments/assets/c0cc2a31-d80c-4346-bbe0-ba5cb57c451b =300x)
+![RPReplay_Final1724986966](https://github.com/user-attachments/assets/6cc4f664-4648-4f26-991d-314f8d6c142c)
 
 <img src="https://github.com/user-attachments/assets/672d2f68-7f29-41ec-91eb-07db3268a737" width="300" />
 
