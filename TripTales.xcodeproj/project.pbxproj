@@ -14,6 +14,7 @@
 		D79DCC812C80EAA0005B4A52 /* TripTales.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D79DCC7F2C80EAA0005B4A52 /* TripTales.xcdatamodeld */; };
 		D79DCC832C80EAA2005B4A52 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D79DCC822C80EAA2005B4A52 /* Assets.xcassets */; };
 		D79DCC862C80EAA2005B4A52 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = D79DCC852C80EAA2005B4A52 /* Base */; };
+		D79DCC8E2C80FCA3005B4A52 /* PlacesNameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D79DCC8D2C80FCA3005B4A52 /* PlacesNameViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		D79DCC822C80EAA2005B4A52 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D79DCC852C80EAA2005B4A52 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D79DCC872C80EAA2005B4A52 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D79DCC8D2C80FCA3005B4A52 /* PlacesNameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlacesNameViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				D79DCC762C80EAA0005B4A52 /* AppDelegate.swift */,
 				D79DCC782C80EAA0005B4A52 /* SceneDelegate.swift */,
 				D79DCC7A2C80EAA0005B4A52 /* ViewController.swift */,
+				D79DCC8D2C80FCA3005B4A52 /* PlacesNameViewController.swift */,
 				D79DCC7C2C80EAA0005B4A52 /* Main.storyboard */,
 				D79DCC822C80EAA2005B4A52 /* Assets.xcassets */,
 				D79DCC842C80EAA2005B4A52 /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D79DCC7B2C80EAA0005B4A52 /* ViewController.swift in Sources */,
+				D79DCC8E2C80FCA3005B4A52 /* PlacesNameViewController.swift in Sources */,
 				D79DCC772C80EAA0005B4A52 /* AppDelegate.swift in Sources */,
 				D79DCC812C80EAA0005B4A52 /* TripTales.xcdatamodeld in Sources */,
 				D79DCC792C80EAA0005B4A52 /* SceneDelegate.swift in Sources */,
