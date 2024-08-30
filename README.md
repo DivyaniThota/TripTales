@@ -36,7 +36,10 @@ FEATURES:
 SCREENSHOTS:
 ---
 
-<img src="https://github.com/user-attachments/assets/672d2f68-7f29-41ec-91eb-07db3268a737" width="300" />
+<img width="300" alt="TripTales_2" src="https://github.com/user-attachments/assets/53ee9776-1b44-48b9-baf2-e5f178540bcb">
+
+<img width="300" alt="TripTales_3" src="https://github.com/user-attachments/assets/564972ee-05ec-4fab-b5b4-282ff387cfd1">
+
 
 
 
