@@ -40,7 +40,8 @@ SCREENSHOTS:
 
 <img width="295" alt="TripTales_3" src="https://github.com/user-attachments/assets/564972ee-05ec-4fab-b5b4-282ff387cfd1">
 
-<video width="600" controls><source src="https://github.com/user-attachments/assets/c911b446-5076-4a1b-8ed1-7f6d7bbcc4b4" type="video/mp4">Your browser does not support the video tag.</video>
+<video src="https://github.com/user-attachments/assets/c911b446-5076-4a1b-8ed1-7f6d7bbcc4b4" width="300" controls> </video>
+
 
 
 
