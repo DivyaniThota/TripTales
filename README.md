@@ -24,7 +24,6 @@ TECHNOLOGIES USED:
 
 * Xcode
 
-
 FEATURES:
 ---
 * MapKit Integration: Utilize MapKit to provide directions by pinning locations with annotations and offering a detail disclosure option to access navigation.
@@ -36,9 +35,13 @@ FEATURES:
 
 SCREENSHOTS:
 ---
-![RPReplay_Final1724986966](https://github.com/user-attachments/assets/6cc4f664-4648-4f26-991d-314f8d6c142c)
 
 <img src="https://github.com/user-attachments/assets/672d2f68-7f29-41ec-91eb-07db3268a737" width="300" />
 
+
 <img src="https://github.com/user-attachments/assets/4dadd6de-8a40-4d38-9ff7-4325bf4b2906" width="300" />
+
+
+<img src="https://github.com/user-attachments/assets/6cc4f664-4648-4f26-991d-314f8d6c142c" width="150" />
+
 
