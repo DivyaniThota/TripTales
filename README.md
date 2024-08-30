@@ -42,6 +42,6 @@ SCREENSHOTS:
 <img src="https://github.com/user-attachments/assets/4dadd6de-8a40-4d38-9ff7-4325bf4b2906" width="300" />
 
 
-<img src="https://github.com/user-attachments/assets/6cc4f664-4648-4f26-991d-314f8d6c142c" width="150" />
+
 
 
