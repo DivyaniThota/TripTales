@@ -38,7 +38,7 @@ SCREENSHOTS:
 
 <img width="300" alt="TripTales_2" src="https://github.com/user-attachments/assets/53ee9776-1b44-48b9-baf2-e5f178540bcb">
 
-<img width="290" alt="TripTales_3" src="https://github.com/user-attachments/assets/564972ee-05ec-4fab-b5b4-282ff387cfd1">
+<img width="295" alt="TripTales_3" src="https://github.com/user-attachments/assets/564972ee-05ec-4fab-b5b4-282ff387cfd1">
 
 
 
