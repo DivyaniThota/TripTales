@@ -30,7 +30,7 @@ FEATURES:
 
 * Core Data: Use Core Data as a local database to store user-added information on the iPhone, allowing users to save and manage their data directly on the device. Users also have the option to delete saved data as needed.
 
-* CoreLocation: Leverage CoreLocation to accurately determine and retrieve the user's current location coordinates. Note that the app will request permission to access your location data for this functionality.
+* Core Location: Leverage CoreLocation to accurately determine and retrieve the user's current location coordinates. Note that the app will request permission to access your location data for this functionality.
 
 
 SCREENSHOTS:
